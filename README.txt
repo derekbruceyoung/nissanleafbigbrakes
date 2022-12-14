@@ -12,7 +12,12 @@ Brake lines: Stock Leaf lines work, but you need a shorter banjo bolt, which can
 
 Rotors: This was the trickiest part as the 355x32mm 370Z rotors do not have the correct offset.  After some deep digging I found some V8 mustang units that are really close to perfect, and are cheap and available.  Raybestos 680497 or Centric 120.61089 is the part number you're after. There are even reasonably priced 2-piece units available if you want to get fancy: https://kohrmotorsports.com/product/07- ... otor-pair/
 
-Custom Parts:  The calipers Bolt right on, but the rotors need a little help as 1) the center bore is 3mm too big, 2) the offset is 1mm off and 3) the Mustang wheel lugs are M14. To solve this I used sendcutsend.com to make two 1mm thick 6061 spacers that go between the rotor and hub, and ten 15.2m OD, 12.5mm ID rings out of 1/4" Stainless steel.  I hand bent a 8mm wide strip of 1/16" (1.5mm) aluminum into a ring that takes up the center bore clearance.  I initially tried to design a hub centering feature into the hub spacer (see the photos) and it would have worked except I needed a 1mm thick spacer and a 1.5mm thick ring, so it needed to be two parts.  Total cost of these bits would be less than SCS's $30 minimum order.
+Custom Parts:  The calipers Bolt right on, but the rotors need a little help as 1) the center bore is 3mm too big, 2) the offset is 1mm off and 3) the Mustang wheel lugs are M14. To solve this I used sendcutsend.com to make two 1mm thick 6061 spacers that go between the rotor and hub, and ten 15.2m OD, 12.5mm ID rings out of 1/4" Stainless steel to fill in the M14 bores.  I hand bent a 8mm wide strip of 1/16" (1.5mm) aluminum into a ring that takes up the center bore clearance.  I initially tried to design a hub centering feature into the hub spacer (see the photos) and it would have worked except I needed a 1mm thick spacer and a 1.5mm thick ring, so it needed to be two parts.  Total cost of these bits would be less than SCS's $30 minimum order. .DXFs for these parts can be found on Github: https://github.com/derekbruceyoung/nissanleafbigbrakes
+
+Custom Parts BOM (apology for mixing units, but that's just how it is in my life):
+2X 0.0625 in aluminum for centerbore ring.DXF -- Material 1.5mm/0.0625 bendable aluminum (this could be made with shears, it's just a strip of aluminum that you need to form into a ring)
+10X 0.250 inch SS brake lug hole shim.DXF -- Material 1/4-5/16" (6-8mm) stainless steel
+2X 1mm Thick Hub Spacer.DXF -- Material: 1mm/0.040" aluminum or stainless steel
 
 Installation: Everything bolts up and clears -- the only part of the car that needs modification is the splash shield needs trimming -- I just used a pair of sheet metal shears.
 
